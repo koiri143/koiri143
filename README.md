@@ -1,7 +1,7 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
-**koiri143/koiri143** 
+koiri143/koiri143
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ..python.
